@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c04669bc821e65478a9039eb116bdc6, type: 3}
+  m_Name: SettingsData
+  m_EditorClassIdentifier: 
+  masterVolume: 0.74811727
+  bgmVolume: 0.50180835
+  ambienceVolume: 0.5
+  sfxVolume: 0.69686013
+  guiSfxVolume: 0.69573087

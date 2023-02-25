@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Mat_CrystalHeartShader
+  m_Shader: {fileID: -6465566751694194690, guid: 56ca9928454d4914cb8d8580d947b117, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Cubemap_9f5fbe9b9e254563b4072fdfdbb55f9e:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Cubemap_ab7a7f9ffa684a97a2d117bc15157975:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - GalaxyCube_:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - SparklesCube_:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CubemapAsset_60772b24fd6a4d40923466edfa7a8912_Out_0:
+        m_Texture: {fileID: 8900000, guid: 9cabeeb38684824458275bdaf502f958, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CubemapAsset_e7c9f4c219ad43a5bca70a14b15c7b83_Out_0:
+        m_Texture: {fileID: 8900000, guid: ef379c7fdd710144f85854dfe0a468da, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - BottomIntensity_: 0.48
+    - FresnelNoisePower_: 1.5
+    - FresnelNoiseScale_: 20
+    - FresnelNoiseSpeed_: 20
+    - FresnelPower_: 1.5
+    - Metallic_: 0
+    - Smoothness_: 0.48
+    - TopIntensity_: 0.78
+    - Vector1_0feb9f05e6634a958e836edf7943533b: 0.79
+    - Vector1_182ec01d5ac84cfea00f267ad66de373: 1.5
+    - Vector1_2a68f2b5539e4b5ea80d50cf0e4e1f89: 20
+    - Vector1_6501cc72e4a74b379dfa4e4f7bad038c: 0.75
+    - Vector1_875cbab56abb44b4933ef4dbb4aae206: 1.5
+    - Vector1_a34c0c2b76ce4cab8215cd8074aacc69: 0.32
+    - Vector1_aa3c61d6e392430b9dd1b6b6b96cf68e: 0.38
+    - Vector1_f45baad896bb4eb9bb4b8f395ef90d77: 20
+    m_Colors:
+    - BottomColour_: {r: 1, g: 1, b: 1, a: 1}
+    - Color_1e99d07420fa419bad2d9789022b96f4: {r: 0, g: 0.17389461, b: 0.6132076, a: 1}
+    - Color_252f228d70814b80a136a0770201960b: {r: 28.109804, g: 0, b: 31.62353, a: 1}
+    - Color_56bc206c18104622b429c6a4a6b619cd: {r: 1, g: 1, b: 1, a: 0}
+    - Color_9ba7bd889f9348babc787508155a026f: {r: 2.670157, g: 2.670157, b: 2.670157, a: 1}
+    - Color_a5ef5b00fa2f42a2b2c2b78a6e03a17d: {r: 1, g: 1, b: 1, a: 1}
+    - Color_af97d91111dc4ad2ac5248d73dee23c8: {r: 0.284853, g: 0.9221513, b: 0.7000626, a: 1}
+    - FresnelColour_: {r: 1, g: 1, b: 1, a: 0}
+    - FresnelPower_: {r: 2, g: 2, b: 0, a: 0}
+    - FresnelSpeed_: {r: 0, g: 0.5, b: 0, a: 0}
+    - GalaxyColour_: {r: 2.670157, g: 2.670157, b: 2.670157, a: 1}
+    - SparklesColour_: {r: 1, g: 1, b: 1, a: 1}
+    - SparklesOffset_: {r: 2.41, g: 0, b: -0.01, a: 0}
+    - TopColour_: {r: 1, g: 1, b: 1, a: 1}
+    - Vector2_53b5d665414d4b1da7f830279d2cd0d0: {r: 2, g: 2, b: 0, a: 0}
+    - Vector2_e47bf4137a774afda3d4db45265133dc: {r: 0, g: 0.5, b: 0, a: 0}
+    - Vector3_196c070f85604991b2f0dea4921bfaa5: {r: 2.41, g: 0, b: -0.01, a: 0}
+  m_BuildTextureStacks: []

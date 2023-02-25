@@ -1,0 +1,405 @@
+fileFormatVersion: 2
+guid: 202d728f74dcbe544ac461e4804dd195
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4321679585651598294
+    second: Mushrooomcorrupted_0
+  - first:
+      213: -551442333628676866
+    second: Mushrooomcorrupted_3
+  - first:
+      213: -4525947722415136063
+    second: Mushrooomcorrupted_4
+  - first:
+      213: 4295038745961355554
+    second: Mushrooomcorrupted_5
+  - first:
+      213: -496765894897785825
+    second: Mushrooomcorrupted_7
+  - first:
+      213: 5088376232237086296
+    second: Mushrooomcorrupted_16
+  - first:
+      213: -6658443807494948156
+    second: Mushrooomcorrupted_17
+  - first:
+      213: -6017818651413457070
+    second: Mushrooomcorrupted_18
+  - first:
+      213: 6620262494580486493
+    second: Mushrooomcorrupted_20
+  - first:
+      213: 5827631028802311466
+    second: Mushrooomcorrupted_21
+  - first:
+      213: -4349040970902823269
+    second: Mushrooomcorrupted_23
+  - first:
+      213: 8251453204134078228
+    second: Mushrooomcorrupted_25
+  - first:
+      213: -8206152061588300258
+    second: Mushrooomcorrupted_27
+  - first:
+      213: -488078915233769537
+    second: Mushrooomcorrupted_28
+  - first:
+      213: -1961216648074312430
+    second: Mushrooomcorrupted_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mushrooomcorrupted_0
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 609
+        width: 385
+        height: 471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d322d79fa0b9fb30800000000000000
+      internalID: 4321679585651598294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooomcorrupted_3
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 642
+        width: 457
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef443f58e12e858f0800000000000000
+      internalID: -551442333628676866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooomcorrupted_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 609
+        width: 352
+        height: 357
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c22575a68a9031c0800000000000000
+      internalID: -4525947722415136063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooomcorrupted_5
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 609
+        width: 182
+        height: 449
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229d09dbbfa0b9b30800000000000000
+      internalID: 4295038745961355554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooomcorrupted_7
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 804
+        width: 394
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14a612fc022b19f0800000000000000
+      internalID: -496765894897785825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooomcorrupted_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 102
+        width: 171
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856380e493b8d9640800000000000000
+      internalID: 5088376232237086296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooomcorrupted_17
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 51
+        width: 287
+        height: 494
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca3d5192a47893a0800000000000000
+      internalID: -6658443807494948156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooomcorrupted_18
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 41
+        width: 322
+        height: 429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257d7cff1d96c7ca0800000000000000
+      internalID: -6017818651413457070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooomcorrupted_20
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 42
+        width: 223
+        height: 484
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51bf45c9a5efdb50800000000000000
+      internalID: 6620262494580486493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooomcorrupted_21
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 15
+        width: 520
+        height: 571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a255ec96b87efd050800000000000000
+      internalID: 5827631028802311466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooomcorrupted_23
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 84
+        width: 154
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e97b7774a15a3c0800000000000000
+      internalID: -4349040970902823269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooomcorrupted_25
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 73
+        width: 162
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417ab2998fc038270800000000000000
+      internalID: 8251453204134078228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f867ce267bd1f9b4b99b87c8888d1294
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

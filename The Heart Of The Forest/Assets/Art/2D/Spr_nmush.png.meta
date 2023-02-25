@@ -1,0 +1,438 @@
+fileFormatVersion: 2
+guid: 3728a31b93632ce45ad943d791ed85d7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3060541022883566775
+    second: Spr_nmush_0
+  - first:
+      213: -8054469542023373655
+    second: Spr_nmush_4
+  - first:
+      213: -8316513080130333218
+    second: Spr_nmush_6
+  - first:
+      213: -4049480587193901562
+    second: Spr_nmush_7
+  - first:
+      213: -8316442302221993338
+    second: Spr_nmush_8
+  - first:
+      213: -2309336115885692946
+    second: Spr_nmush_9
+  - first:
+      213: 6535181219645731674
+    second: Spr_nmush_10
+  - first:
+      213: -1730964086806623891
+    second: Spr_nmush_14
+  - first:
+      213: -7595126648962975478
+    second: Spr_nmush_16
+  - first:
+      213: 2567724194187540906
+    second: Spr_nmush_17
+  - first:
+      213: -9105041053721649897
+    second: Spr_nmush_18
+  - first:
+      213: -7566422454170590284
+    second: Spr_nmush_19
+  - first:
+      213: 1350141796545045692
+    second: Spr_nmush_23
+  - first:
+      213: -1496549741606759790
+    second: Spr_nmush_25
+  - first:
+      213: 7422868834135995059
+    second: Spr_nmush_26
+  - first:
+      213: 419723080110990850
+    second: Spr_nmush_27
+  - first:
+      213: 7187510397480519977
+    second: Spr_nmush_28
+  - first:
+      213: 5585426990324690073
+    second: Spr_nmush_29
+  - first:
+      213: -5222019119198328733
+    second: Spr_nmush_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spr_nmush_0
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 621
+        width: 379
+        height: 459
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b45c7948d9397a20800000000000000
+      internalID: 3060541022883566775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_nmush_4
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 671
+        width: 164
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac5e7d30a6c83090800000000000000
+      internalID: -8054469542023373655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_nmush_6
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 654
+        width: 166
+        height: 388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed511f89a6fc59c80800000000000000
+      internalID: -8316513080130333218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_nmush_7
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 688
+        width: 353
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e977b6cda5dc7c0800000000000000
+      internalID: -4049480587193901562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_nmush_8
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 811
+        width: 393
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ab60dd9cf069c80800000000000000
+      internalID: -8316442302221993338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_nmush_10
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 642
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53b9c3c1b0a1ba50800000000000000
+      internalID: 6535181219645731674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_nmush_14
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 66
+        width: 344
+        height: 429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69cee685516af7e0800000000000000
+      internalID: -1730964086806623891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_nmush_16
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 52
+        width: 225
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a097570bd80b89690800000000000000
+      internalID: -7595126648962975478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_nmush_17
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 17
+        width: 373
+        height: 594
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa979bbdc8362a320800000000000000
+      internalID: 2567724194187540906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_nmush_18
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 17
+        width: 169
+        height: 579
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d9297f66564a180800000000000000
+      internalID: -9105041053721649897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_nmush_19
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 18
+        width: 523
+        height: 572
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b36f96dddaaef690800000000000000
+      internalID: -7566422454170590284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_nmush_27
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 12
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2066c06eae723d500800000000000000
+      internalID: 419723080110990850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_nmush_28
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 16
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929c04d10aa2fb360800000000000000
+      internalID: 7187510397480519977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 069c9d07a0abff64d8601482032d725c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
